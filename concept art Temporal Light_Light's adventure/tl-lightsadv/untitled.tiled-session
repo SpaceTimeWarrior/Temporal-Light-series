@@ -1,0 +1,76 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "building tileset0.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "building tileset0.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "building tileset1.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "ground tlst0.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 2
+        },
+        "ground tlst1.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 2
+        },
+        "ground tlst2.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "output_tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "output_tileset2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "output_tileset3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "output_tileset4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        }
+    },
+    "last.imagePath": "C:/Users/steve/Documents/GameMakerStudio2/Temporal-Light/sprites/interior_sprite_16",
+    "map.layerDataFormat": null,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "ground tlst0.tsx",
+        "building tileset0.tsx",
+        "ground tlst1.tsx",
+        "ground tlst2.tsx",
+        "building tileset1.tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "ground tlst0.tsx",
+        "building tileset1.tsx",
+        "ground tlst2.tsx",
+        "ground tlst1.tsx",
+        "building tileset0.tsx",
+        "output_tileset.tsx",
+        "output_tileset2.tsx",
+        "output_tileset4.tsx",
+        "output_tileset3.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

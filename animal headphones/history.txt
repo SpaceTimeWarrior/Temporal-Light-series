@@ -1,0 +1,4 @@
+this was an attempt to try to create emersion.
+I didn't want to take the easy route and just make all monsters use earbuds.
+the reason why not use standard human headphones is most of the monsters have different ears.
+this mini project started around mid febuary of 2023 and the last update was march 4th of 2023
