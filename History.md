@@ -19,6 +19,9 @@ the next spin off game released was Temporal Light: Jem of Twilight. this game w
 the last game to be developed was a spin off game of jem of twilight called Jem's magic lesson. this game starts half a year before chapter 1 and about a month after chapter 2. this is a arcade game that was released on gamejolt. I may update the game to improve the dialog boxes to be within the game window(rather than create a new one) however my main focus right now is Jem of Twilight. here is the link to download the game https://gamejolt.com/games/Temporal-Light-jems-magic-lesson/852033
 
 
+---------------------------
+
+
 inspiration by era(first is primary) this is of all games that inspired the game. all use the game from the prior era as a inspiration. this is to show the main external forces that inspired the game.(in order of how much)
 
 initial-pokemon mystery dungeon
