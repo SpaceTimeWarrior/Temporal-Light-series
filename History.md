@@ -17,3 +17,11 @@ here is the link to the newest version: https://timespacewarrior.itch.io/tempora
 the next spin off game released was Temporal Light: Jem of Twilight. this game was made for the gamejam talked about in the previous game. the story was based on a single paragraph from my game notes. several characters make their first appearance in this game mostly every character with the exception of flare and light. some characters did have data but never fully implemented in the prior games such as jem,cedric,ember. sadly I did not place in the top 15 likely due to the gamejam version had a multitude of glitches and reused the engine in Light's adventure. very few maps are reused from light's adventure and one of the two had changes made. while some reused maps where in the code but never accessed them this is due to a planned feature that as the game progressed you would change luna to match the choices you make either directly or indirectly(by game events). here are all the versions publically available https://github.com/SpaceTimeWarrior/temporal-light-Jem-of-Twilight,  https://gamejolt.com/games/Temporal-Light-Jem-of-Twilight/847940,    https://timespacewarrior.itch.io/temporal-light-jem-of-twilight    here is the game's wiki: https://github.com/SpaceTimeWarrior/temporal-light-Jem-of-Twilight/wiki
 
 the last game to be developed was a spin off game of jem of twilight called Jem's magic lesson. this game starts half a year before chapter 1 and about a month after chapter 2. this is a arcade game that was released on gamejolt. I may update the game to improve the dialog boxes to be within the game window(rather than create a new one) however my main focus right now is Jem of Twilight. here is the link to download the game https://gamejolt.com/games/Temporal-Light-jems-magic-lesson/852033
+
+
+inspiration by era(first is primary) this is of all games that inspired the game
+initial-pokemon mystery dungero
+RPG Maker era- TimeSpaceMod 1.7.10, final fantasy,(pokemon but less)
+GameMaker era- Undertale , RPG Maker era(all)
+GameMaker 2 era- GameMaker era(all), cave story, portal 1+2
+Temporal Light Side stories- GameMaker 2 era(all)
