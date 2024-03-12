@@ -1,4 +1,14 @@
 this was an attempt to try to create emersion.
 I didn't want to take the easy route and just make all monsters use earbuds.
-the reason why not use standard human headphones is most of the monsters have different ears.
+the reason why not use standard human headphones is most of the monsters have different ears.(and in different locations)
+what braught this to my attention was a devlog for the game project feline.
+the other reason why I didn't do a custom fitting set like what inspired this is due to the fact most of the characters are not rich to have a custom fitting set.
+thus I conveniently had a pair of RIG head phones which the ear pieces where detachable this is the main idea I used.
+I added a round shaft in which would allow it to rotate around the head to the ear.
+I also made the earpiece detachable for maintnance and to allow more ear types rabbit ears for example. this also makes it so humans can use the headphones.
+the next problem was to hold the headset in place.
+the first Idea was having 1 detachable strap to hold it on this was abandoned early as that would break quickly with repeated use
+the next idea in which I widen the strap/multiple straps. again same reason why the above idea was scrapped.
+lastly I looked at the fabric cuff and thaught what if that be the equivilant of a strap by putting an elastic band.
+I thaught of using magic but that would not work with some.
 this mini project started around mid febuary of 2023 and the last update was march 4th of 2023

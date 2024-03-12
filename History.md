@@ -22,7 +22,7 @@ the last game to be developed was a spin off game of jem of twilight called Jem'
 ---------------------------
 
 
-inspiration by era(first is primary) this is of all games that inspired the game. all use the game from the prior era as a inspiration. this is to show the main external forces that inspired the game.(in order of how much)
+inspiration by era(first is primary) this is of all games that inspired the game. all use the game from the prior era as a inspiration. this is to show the main external forces that inspired the game.(in order of how much).note micro-projects and non-games are excluded from this list if they used inspiration other than what was used for that time period it will state it in their history.txt/history.md.
 
 initial-pokemon mystery dungeon
 
