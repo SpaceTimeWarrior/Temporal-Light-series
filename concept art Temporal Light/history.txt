@@ -3,3 +3,6 @@ first set of characters- initially made on march 25th 2022 copied on march 5th 2
 screenshots of the gamemaker studio 2 engine have the name formated day-month-year_hour(24hour clock).minute.second
 31-10-2022_18.21.10 to 31-10-2022_18.21.24  are images of character outfits(screenshots in the gms2 engine)
 27-10-2022_19.4.35 is a debug room where enemies are spammed to test how the game acts under extreme lag. the game has a autoshutoff feature on the spawner when the fps drops below 15 fps. the highest I got was about 2000 enemy units with 20 party members. this image was my first big breakthrough of surpassing 1000 enemies. and about 100 before lag started to happen.
+the character description files show what the characters where like at that point of development.(and provide some clues to the canonical ending of jem of twilight it has changed since but does have simularities)
+the racial description wolfcat was made to help design the race that jem,brier,and light are.
+jem and brier are brown fox kitsune(foxs are canines) for the canine side and shadowcat for the feline side. and light is jem's daughter.
