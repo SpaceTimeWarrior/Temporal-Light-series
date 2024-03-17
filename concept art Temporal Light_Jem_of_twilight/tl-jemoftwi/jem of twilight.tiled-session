@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Earth-caverns hospital.tmx",
+    "activeFile": "Earth-Distortion mountain-enterance cavern.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -57,6 +57,22 @@
                 "y": 240.5
             }
         },
+        "Earth-Distortion mountain-base.tmx": {
+            "scale": 1.8129166666666667,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 249.32199494369112,
+                "y": 276.6260629740289
+            }
+        },
+        "Earth-Distortion mountain-enterance cavern.tmx": {
+            "scale": 4,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 153,
+                "y": 88.625
+            }
+        },
         "Earth-caverns hospital enterance.tmx": {
             "scale": 2,
             "selectedLayer": 1,
@@ -69,16 +85,16 @@
             "scale": 3,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 163,
-                "y": 147.99999999999997
+                "x": 133.66666666666666,
+                "y": 102.5
             }
         },
         "Earth-caverns-distortion mountain exit.tmx": {
             "scale": 1.4230208333333332,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 309.2013761803675,
-                "y": 241.73925774101463
+                "x": 308.49864577995766,
+                "y": 370.690286216236
             }
         },
         "Lightbringer palace airlock.tmx": {
@@ -89,17 +105,21 @@
                 "y": 240.5
             }
         },
+        "blood splatter.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
         "brier's tower f3.tmx": {
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
                 "x": 160,
-                "y": 160.33333333333337
+                "y": 160.33333333333334
             }
         },
         "character tileset.tsx": {
             "dynamicWrapping": false,
-            "scaleInDock": 5.5,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "characters.tsx": {
@@ -108,11 +128,11 @@
             "scaleInEditor": 1
         },
         "dirt 2 cutout.tsx": {
-            "scaleInDock": 4,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "dirt cutout.tsx": {
-            "scaleInDock": 3,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "east courtyard connection.tmx": {
@@ -128,7 +148,7 @@
             "selectedLayer": 2,
             "viewCenter": {
                 "x": 160,
-                "y": 160.33333333333337
+                "y": 160.33333333333334
             }
         },
         "eather overworld_0.tmx": {
@@ -143,8 +163,8 @@
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 352,
-                "y": 432.66666666666674
+                "x": 351.9999999999999,
+                "y": 432.6666666666666
             }
         },
         "eather overworld_2.tmx": {
@@ -152,7 +172,7 @@
             "selectedLayer": 3,
             "viewCenter": {
                 "x": 240,
-                "y": 240.66666666666663
+                "y": 240.66666666666669
             }
         },
         "eather overworld_4.tmx": {
@@ -160,7 +180,7 @@
             "selectedLayer": 2,
             "viewCenter": {
                 "x": 160,
-                "y": 80.16666666666669
+                "y": 80.16666666666667
             }
         },
         "eather palace enterance.tmx": {
@@ -180,19 +200,19 @@
             }
         },
         "electrode sparks.tsx": {
-            "scaleInDock": 4,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "ember's house.tmx": {
             "scale": 4.2096875,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 79.81590082399228,
-                "y": 80.17222180981368
+                "x": 80.05344814787321,
+                "y": 80.17222180981366
             }
         },
         "exterior and walls.tsx": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "forge's house.tmx": {
@@ -200,38 +220,38 @@
             "selectedLayer": 2,
             "viewCenter": {
                 "x": 80,
-                "y": 80.16666666666669
+                "y": 80.16666666666667
             }
         },
         "interior tileset 1.tsx": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "interior tileset 2.tsx": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "jem's room.tmx": {
             "scale": 3,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 84,
-                "y": 76.16666666666669
+                "x": 83.99999999999997,
+                "y": 76.16666666666667
             }
         },
         "jems house-basement.tmx": {
             "scale": 1.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 239.66666666666666,
-                "y": 159.66666666666663
+                "x": 240,
+                "y": 159.66666666666669
             }
         },
         "light's room.tmx": {
             "scale": 4.74,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 79.95780590717298,
+                "x": 80.16877637130801,
                 "y": 72.0464135021097
             }
         },
@@ -247,15 +267,15 @@
             "scale": 5.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 374.90909090909093,
-                "y": 95.90909090909092
+                "x": 376,
+                "y": 95.9090909090909
             }
         },
         "luna armory access.tmx": {
             "scale": 3.13203125,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 159.96008979795462,
+                "x": 160.2793714143178,
                 "y": 72.31728610626092
             }
         },
@@ -264,23 +284,31 @@
             "selectedLayer": 1,
             "viewCenter": {
                 "x": 160,
-                "y": 159.83333333333331
+                "y": 159.83333333333334
             }
         },
         "luna hanger storage room.tmx": {
-            "scale": 4,
-            "selectedLayer": 2,
+            "scale": 0.75,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 160,
-                "y": 239.875
+                "y": 240.66666666666669
+            }
+        },
+        "luna hanger storage room_1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 208.66666666666666,
+                "y": 261
             }
         },
         "luna jem's garden.tmx": {
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 344,
-                "y": 160.66666666666663
+                "x": 343.9999999999999,
+                "y": 160.66666666666669
             }
         },
         "luna overworld 0.tmx": {
@@ -288,7 +316,7 @@
             "selectedLayer": 4,
             "viewCenter": {
                 "x": 160,
-                "y": 159.83333333333331
+                "y": 159.83333333333334
             }
         },
         "luna overworld 0B.tmx": {
@@ -304,7 +332,7 @@
             "selectedLayer": 4,
             "viewCenter": {
                 "x": 160,
-                "y": 240.33333333333337
+                "y": 240.3333333333333
             }
         },
         "luna palace Throne Room.tmx": {
@@ -343,7 +371,7 @@
             "scale": 3.13203125,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 159.96008979795462,
+                "x": 160.2793714143178,
                 "y": 72.31728610626092
             }
         },
@@ -352,7 +380,7 @@
             "selectedLayer": 2,
             "viewCenter": {
                 "x": 160,
-                "y": 240.33333333333337
+                "y": 240.3333333333333
             }
         },
         "luna palace throne access airlock.tmx": {
@@ -360,7 +388,7 @@
             "selectedLayer": 1,
             "viewCenter": {
                 "x": 160,
-                "y": 80.16666666666669
+                "y": 80.16666666666667
             }
         },
         "luna room 0.tmx": {
@@ -368,7 +396,7 @@
             "selectedLayer": 2,
             "viewCenter": {
                 "x": 80,
-                "y": 80.16666666666669
+                "y": 80.16666666666667
             }
         },
         "luna tranquility access.tmx": {
@@ -399,8 +427,8 @@
             "scale": 2.3717013888888885,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 159.80089305321724,
-                "y": 160.0117121733402
+                "x": 160.22253129346316,
+                "y": 160.01171217334021
             }
         },
         "magic school F1.tmx": {
@@ -416,7 +444,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 164,
-                "y": 159.83333333333331
+                "y": 159.83333333333334
             }
         },
         "magic school magic combat arena.tmx": {
@@ -444,11 +472,11 @@
             }
         },
         "road tilesets.tsx": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 2
         },
         "roof tiles.tsx": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "rug store.tmx": {
@@ -460,27 +488,27 @@
             }
         },
         "sea of serenity waterfront.tmx": {
-            "scale": 5.5,
+            "scale": 0.5,
             "selectedLayer": 6,
             "viewCenter": {
                 "x": 240,
-                "y": 159.90909090909093
+                "y": 161
             }
         },
         "shuttles.tsx": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "steel flooring.tsx": {
-            "scaleInDock": 3,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "string lights tileset.tsx": {
-            "scaleInDock": 0.5,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "terrain_tilesets.tsx": {
-            "scaleInDock": 4,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "the intrepid flyer-interior.tmx": {
@@ -495,8 +523,8 @@
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 192,
-                "y": 192.33333333333337
+                "x": 192.66666666666666,
+                "y": 192.33333333333334
             }
         },
         "throne room acess.tmx": {
@@ -512,23 +540,23 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 108,
-                "y": 211.75
+                "y": 212.25
             }
         },
         "trees 0.tsx": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "trees 1.tsx": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 4
         },
         "water 0.tsx": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1.5
         },
         "water 1.tsx": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "west courtyard connection.tmx": {
@@ -540,23 +568,23 @@
             }
         },
         "wood_birch.tsx": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "wood_spruce.tsx": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 5.5
         }
     },
     "last.exportedFilePath": "C:/Users/steve/tl-jemoftwi",
     "last.externalTilesetPath": "C:/Users/steve/tl-jemoftwi",
-    "last.imagePath": "C:/Users/steve/tl-lightsadv/Documents/GameMakerStudio2/Temporal-Light/sprites/overworld_animations_1",
-    "map.height": 20,
+    "last.imagePath": "C:/Users/steve/Documents/Temporal-Light-series-main/Temporal-Light-series/concept art Temporal Light_Light's adventure/tl-lightsadv/Documents/GameMakerStudio2/Temporal-Light/sprites",
+    "map.height": 10,
     "map.lastUsedExportFilter": "Godot 4 Scene files (*.tscn)",
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
-    "map.width": 20,
+    "map.width": 30,
     "openFiles": [
         "jems house-basement.tmx",
         "exterior and walls.tsx",
@@ -611,7 +639,11 @@
         "lightbringer palace basement.tmx",
         "Earth-caverns hospital enterance.tmx",
         "Earth-caverns-distortion mountain exit.tmx",
-        "Earth-caverns hospital.tmx"
+        "Earth-caverns hospital.tmx",
+        "luna hanger storage room_1.tmx",
+        "blood splatter.tsx",
+        "Earth-Distortion mountain-base.tmx",
+        "Earth-Distortion mountain-enterance cavern.tmx"
     ],
     "project": "jem of twilight.tiled-project",
     "property.type": "file",
