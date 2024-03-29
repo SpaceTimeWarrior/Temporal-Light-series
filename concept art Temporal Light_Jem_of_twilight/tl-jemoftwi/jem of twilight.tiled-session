@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Earth-Distortion mountain-enterance cavern.tmx",
+    "activeFile": "Earth-Distortion mountain-peak-access-cavern.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -61,16 +61,80 @@
             "scale": 1.8129166666666667,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 249.32199494369112,
-                "y": 276.6260629740289
+                "x": 239.94484026660535,
+                "y": 240.22063893357847
+            }
+        },
+        "Earth-Distortion mountain-caverns2.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 527,
+                "y": 256.5
             }
         },
         "Earth-Distortion mountain-enterance cavern.tmx": {
-            "scale": 4,
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320,
+                "y": 80.33333333333334
+            }
+        },
+        "Earth-Distortion mountain-exterior1.tmx": {
+            "scale": 1.56,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 441.02564102564094,
+                "y": 155.44871794871796
+            }
+        },
+        "Earth-Distortion mountain-exterior2.tmx": {
+            "scale": 1.566015625,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 320.5587428286356,
+                "y": 239.78049388875036
+            }
+        },
+        "Earth-Distortion mountain-peak access.tmx": {
+            "scale": 2,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 153,
-                "y": 88.625
+                "x": 195.5,
+                "y": 220.75
+            }
+        },
+        "Earth-Distortion mountain-peak-access-cavern.tmx": {
+            "scale": 1.7060416666666667,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 131.29808279399197,
+                "y": 238.27085114177558
+            }
+        },
+        "Earth-Distortion mountain-peak.tmx": {
+            "scale": 2.5590625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 79.7166931249237,
+                "y": 160.01953840517766
+            }
+        },
+        "Earth-Distortion mountain-summit-access-cavern.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 272.5,
+                "y": 134.75
+            }
+        },
+        "Earth-Distortion mountain-summit-cavern-save.tmx": {
+            "scale": 2.55,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 162.35294117647064,
+                "y": 345.686274509804
             }
         },
         "Earth-caverns hospital enterance.tmx": {
@@ -85,16 +149,16 @@
             "scale": 3,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 133.66666666666666,
-                "y": 102.5
+                "x": 164,
+                "y": 159.83333333333334
             }
         },
         "Earth-caverns-distortion mountain exit.tmx": {
             "scale": 1.4230208333333332,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 308.49864577995766,
-                "y": 370.690286216236
+                "x": 319.7423321865164,
+                "y": 240.68516214039977
             }
         },
         "Lightbringer palace airlock.tmx": {
@@ -163,7 +227,7 @@
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 351.9999999999999,
+                "x": 352,
                 "y": 432.6666666666666
             }
         },
@@ -207,7 +271,7 @@
             "scale": 4.2096875,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 80.05344814787321,
+                "x": 79.81590082399228,
                 "y": 80.17222180981366
             }
         },
@@ -235,7 +299,7 @@
             "scale": 3,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 83.99999999999997,
+                "x": 84,
                 "y": 76.16666666666667
             }
         },
@@ -243,7 +307,7 @@
             "scale": 1.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 240,
+                "x": 239.66666666666666,
                 "y": 159.66666666666669
             }
         },
@@ -251,7 +315,7 @@
             "scale": 4.74,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 80.16877637130801,
+                "x": 79.95780590717298,
                 "y": 72.0464135021097
             }
         },
@@ -267,7 +331,7 @@
             "scale": 5.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 376,
+                "x": 373.8181818181818,
                 "y": 95.9090909090909
             }
         },
@@ -275,7 +339,7 @@
             "scale": 3.13203125,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 160.2793714143178,
+                "x": 159.96008979795462,
                 "y": 72.31728610626092
             }
         },
@@ -299,15 +363,15 @@
             "scale": 1.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 208.66666666666666,
-                "y": 261
+                "x": 160,
+                "y": 240.3333333333333
             }
         },
         "luna jem's garden.tmx": {
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 343.9999999999999,
+                "x": 344,
                 "y": 160.66666666666669
             }
         },
@@ -371,7 +435,7 @@
             "scale": 3.13203125,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 160.2793714143178,
+                "x": 159.96008979795462,
                 "y": 72.31728610626092
             }
         },
@@ -427,7 +491,7 @@
             "scale": 2.3717013888888885,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 160.22253129346316,
+                "x": 159.80089305321724,
                 "y": 160.01171217334021
             }
         },
@@ -523,7 +587,7 @@
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 192.66666666666666,
+                "x": 192,
                 "y": 192.33333333333334
             }
         },
@@ -579,12 +643,12 @@
     "last.exportedFilePath": "C:/Users/steve/tl-jemoftwi",
     "last.externalTilesetPath": "C:/Users/steve/tl-jemoftwi",
     "last.imagePath": "C:/Users/steve/Documents/Temporal-Light-series-main/Temporal-Light-series/concept art Temporal Light_Light's adventure/tl-lightsadv/Documents/GameMakerStudio2/Temporal-Light/sprites",
-    "map.height": 10,
+    "map.height": 30,
     "map.lastUsedExportFilter": "Godot 4 Scene files (*.tscn)",
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
-    "map.width": 30,
+    "map.width": 20,
     "openFiles": [
         "jems house-basement.tmx",
         "exterior and walls.tsx",
@@ -643,7 +707,15 @@
         "luna hanger storage room_1.tmx",
         "blood splatter.tsx",
         "Earth-Distortion mountain-base.tmx",
-        "Earth-Distortion mountain-enterance cavern.tmx"
+        "Earth-Distortion mountain-enterance cavern.tmx",
+        "Earth-Distortion mountain-peak.tmx",
+        "Earth-Distortion mountain-peak access.tmx",
+        "Earth-Distortion mountain-exterior1.tmx",
+        "Earth-Distortion mountain-exterior2.tmx",
+        "Earth-Distortion mountain-summit-cavern-save.tmx",
+        "Earth-Distortion mountain-summit-access-cavern.tmx",
+        "Earth-Distortion mountain-caverns2.tmx",
+        "Earth-Distortion mountain-peak-access-cavern.tmx"
     ],
     "project": "jem of twilight.tiled-project",
     "property.type": "file",
