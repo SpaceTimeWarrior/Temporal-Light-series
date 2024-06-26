@@ -1,0 +1,30 @@
+Jem Lightbringer 16000HP 800Atk 200Def
+A-strong attack-long windup but powerful
+B-quick attack-short,quick attacks but limited strength
+c-dodge/block
+x-fire magic-middle of the road magic
+y-water magic-slow but causes static effects
+z-electricity magic-fast and powerful but drains magic fast
+start-ultimate magic uses full gauge (except single press then it is a taunt)
+start+A-flury of strength-sets off a barage of strong attacks at the closest enemy
+start+B-flury of speed-sets of a barage of weak attacks at all close enemies
+start+C-hyper healing-heals by half
+start+x-firewall-for 5 seconds your shield is active but damages eniemies on contact(you can move and use the doge command)
+start+y-glacial bullet-shoots 3 volleys of 8 ice bullets in all directions anyone that makes contact with it is frozen solid for 8seconds
+start+z-Temporal light(takes half health in addition)-for 10 seconds have a beam of light that extends off screen. the directions are used to aim the beam. contact with the beam does a constant medium damage (about once every half second or on first contact whichever happens first).this beam is piercing.
+
+light lightbringer(young)
+A-B-Strong(medium)attack
+c-dodge/block
+x-y-z-weak but very attack
+start+direction-nuclear firecracker shoots a projectile in the direction that if it makes contact does extreme damage and launches the player that made contact
+
+Light Lightbringer(adult but cursed)
+ABCXYZ-same as jem-physical attacks are not quite as strong but fairly strong,but magical attacks are twice as strong
+start same as jem but healing is to full and Temporal Light has no health sacrifice
+
+Light Lightbringer(adult unleashed)
+same as adult but magic strength is doubled.
+However as the magic bar increases the odds of taking overmagic damage also increases
+lore: overmagic-for most mortals this is rare but if a mortal's magic external power level goes over 1000 their bodies start to catch on fire and melt(overriding immunities).
+

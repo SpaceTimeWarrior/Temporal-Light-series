@@ -1,0 +1,1 @@
+draw_sprite(sprite_get("fspecial_cooldown_icon"),0,temp_x,temp_y);

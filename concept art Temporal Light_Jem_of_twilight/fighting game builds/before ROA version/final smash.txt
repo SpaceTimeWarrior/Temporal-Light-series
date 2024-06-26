@@ -1,0 +1,218 @@
+b air (heat cycle)
+d air (heat crash)
+d attack (stone punch dash)
+d tilt (fireball whirl)
+f air (firesword flury)
+f strong (kick and burn)
+f tilt (burning shockwave kick)
+jab (firesword strike)
+n air (fire vortex)
+u air (fire wind updraft)
+
+
+d special-Temporal Light(create a orb of light that anyone caught inside other than the player is launched at 500% the player(activator) also takes damage at 200% and if the activator where to surpass 500% it is a automatic loss of a stock but is counted after the attack is finished) if the player where to use the final smash buddy the damage to the activator is 50%. the damage radius is similar to claren's energy ball.
+Character Compatibility Documentation
+FINAL SMASH BUDDY DOCUMENTATION
+
+This documentation is for a buddy which enables final smashes on compatible characters.
+This document exists as another way to help give your character(s) compatibility.
+This process now works for advanced skins, too! Take your own spin on it!
+
+If you want a simple template to look into, here's SANDBERT WITH A FINAL SMASH:
+
+Sandbert with a Final Smash 
+A Workshop Item for Rivals of Aether
+By: LilacIsle
+Sandbert has another ```FINAL SMASH```. This is a template based off of MUNO's Phonebert which also includes a final smash. Use it as a guide (or template) for your own characters!
+
+
+If you want a simple template for advanced skins to look into, here's one for Kragg:
+
+Kragg Final Smash 
+A Workshop Item for Rivals of Aether
+By: LilacIsle
+A template for creating base cast final smashes! Use as a guide for implementing custom final smashes into advanced skins.
+
+
+<< CREATING YOUR FINAL SMASH >>
+When creating your final smash, I recommend not touching the buddy until you've finished it. However, the value of seeing it in action as you're making it is valuable, so here are a few things to keep in mind:
+- Ditto your custom character when creating your final smash. This is the easiest way to prevent crashes when reloading with F5
+- The Final Smashes I made for base cast typically dealt 35-40 damage, had base knockback of 10-11, and had knockback scaling of around 1.3-1.5. Feel free to stray far from these, however. I am no game designer.
+- It's not in the official rivals workshop manual, but PS_PROJECTILE_PLASMA_SAFE gives immunity to Clairen's down special. Use it to prevent Clairen from making projectile smashes useless.
+
+If you're making the final smash part of the attack grid system, I recommend using `49` instead of `AT_EXTRA_1` , `AT_EXTRA_2` , etc; for reasons explained below.
+You can put the attack grid-defining script into `/attacks/final_smash.gml` just like you would any other attack. Rivals won't accept `49.gml` or other number.
+
+<< PORTRAIT Y-LEVEL >>
+This buddy takes your pre-existing character portrait (shown on the character win screen) in order to create the portrait flashes upon the use of a final smash.
+All you need to do is to go into your image editor of choice and find the y-coordinate of the portrait's eye.
+(It should be the number of pixels from the top to the eye.)
+then in your characters `init.gml`, set `fs_char_portrait_y` to that number:
+
+`fs_char_portrait_y = ~your number here~;`
+
+The buddy should recognize the portrait if you aren't using the fake smash ball.
+If it worked, your final smash should flash a cropped version of the portrait, centered about the eye.
+
+If you have more than one portrait, I'm sorry to say that you need to decide which one to use in `init.gml`.
+The actual sprite will change, but the portrait y-level won't. So unless all of your portraits have similar y-levels, you need extra scripting to account for this.
+
+if you want to shift your portrait in the x-axis, you can use `fs_portrait_x`, in any script:
+
+fs_portrait_x = OFFSET HERE
+
+If you want to manually override the portrait, you can use `fs_char_portrait_override` in `init.gml`:
+
+`fs_char_portrait_override = sprite_get('MY PORTRAIT OVERRIDE SPRITE");`
+
+<< CHOSEN FINAL SMASH >>
+This variable is important to include; it tells the buddy whether or not it needs to replace an attack index, and that you even have a final smash.
+You can use any final smash from base cast, however you'll need to manually override any sprite used, unless you're okay with your character morphing into a base cast character.
+To tell the buddy that you have made your own final smash set `fs_char_chosen_final_smash` to `"custom"` in `init.gml`:
+
+`fs_char_chosen_final_smash = "custom";`
+
+To tell the buddy you want to use an included final smash, use one of the following instead of `"custom"`:
+// "clairen"
+// "forsburn"
+// "zetter"
+// "wrastor"
+// "absa"
+// "elliana"
+// "sylvanos"
+// "maypul"
+// "kragg"
+// "orcane"
+// "etalus"
+// "ranno"
+// "ori"
+// "shovel"
+// "guadua"
+// "sandbert"
+This will replace an attack grid with the respective final smash, and also perform any scripting used for it.
+Keep in mind that these final smashes' scripting doesn't always work with custom characters; I have no idea why, and will not ensure that they will work. Feel free to copy their code directly if needs be.
+
+<< CHOSEN TRIGGER >>
+This variable determines how the buddy will make your character begin using the final smash.
+None of these triggers activate the final smash unless it's fully charged.
+
+--DEFAULT--
+The default setting is to trigger whenever `NSPECIAL` is entered. Keep in mind that this is when the player enters the internally labeled `NSPECIAL`.
+If that trigger works for your character, you can move on to the next section.
+
+--ORI--
+However, this doesn't work for about half of the base cast, with the most extreme example being Ori.
+As she never technically enters the `NSPECIA` state, there is another trigger method labeled `"ori"`.
+This trigger method goes off whenever SPECIAL is pressed when both the joystick and the player are in a neutral state. (Meaning you cannot cancel from endlag or hitstun.)
+To use this trigger method, set `fs_char_chosen_trigger` to `"ori"` in `init.gml`:
+
+`fs_char_chosen_trigger = "ori";`
+
+--CUSTOM--
+The third trigger is a custom one. You handle it's activation entirely in your character scripts.
+This custom trigger only activates the final smash when `fs_force_fs` is set to true in your character scripts.
+This is so that you can have flexibility in exactly when the final smash should and shouldn't activate.
+
+Keep in mind you have to manually set `fs_force_fs` to both true and false.
+To use this trigger method, set `fs_char_chosen_trigger` to `"custom"` in `init.gml`:
+
+`fs_char_chosen_trigger = "custom";`
+
+And to trigger the final smash, simply set `fs_force_fs` to `true` when you want to activate the final smash:
+
+`fs_force_fs = true;`
+
+<< ATTACK INDEX DETERMINATION >>
+This set of variables determines what the buddy changes about your character upon use.
+
+--DEFAULT--
+The default setting is to simply set your character into the "attack index `49`" state.
+
+/***********************************************************************************/
+/ For those unaware, attack indexes like `AT_NSPECIAL` or `AT_JAB` are simply constants.
+/ They can be interchangeably used with numbers, and each attack could be defined instead as `1`, `2`, etc..
+/ There is room in the Rivals engine for up to 50 moves. `49` is the last available spot to put attack data, and most community creations don't use it.
+/ So, instead of defaulting to `AT_EXTRA_3` or similar, it defaults to `49` instead.
+/***********************************************************************************/
+
+--CHANGING THE ATTACK INDEX--
+If you're using a different attack index for your final smash, or are already using `49` for another move, then you can change what attack grid the buddy puts you into.
+Simply set `fs_char_attack_index` to the attack index your final smash uses in `init.gml`:
+
+`fs_char_attack_index = AT_ATTACK_INDEX_OF_YOUR_CHOICE;`
+
+/******************************************************/
+/ If you're using a pre-built final smash, the buddy will replace the attack grid of whatever index you set `fs_char_attack_index` to.
+/******************************************************/
+
+If your character has more than one final smash, the buddy has no problem dynamically changing what attack grid it puts you into.
+Simply set `fs_attack_index` to the new index in any character script:
+
+`fs_attack_index = AT_CURRENT_ATTACK_INDEX_OF_YOUR_CHOICE`
+
+
+--NON-ATTACK GRID FINAL SMASHES--
+However, your character might have a state change or similar instead of a continuous attack.
+If your character does not use an attack grid for their final smash, you need to set `fs_char_is_attack_grid` to `false` in `init.gml`:
+
+`fs_char_is_attack_grid = false;`
+
+Keep in mind that doing this will prevent the buddy from automatically de-activating the final smash.
+This prevents you from charging it again, and prevents others from using their own.
+To tell the buddy your final smash is finished, set `fs_using_final_smash` to 'false' in any character script:
+
+`fs_using_final_smash = false;`
+
+/***********************************/
+It's worth noting that you can force the player into the final smash state by setting this to `true`.
+However, this is different from performing the final smash;
+This state doesn't trigger any attacks, rather it simply gives super armor and prevents the charging of your final smash.
+It also prevents all players (including you) from properly using their final smashes.
+/***********************************/
+
+<< OTHER NOTES >>
+
+--CHARGING--
+The charge level on your final smash is stored in `fs_charge`.
+When `fs_charge` is at least `200`, the final smash is fully charged.
+This is put into your character, meaning you can alter this on the fly in any character script.
+I recommend not touching this variable unless you want to specifically change how the final smash is charged, or ensure a particular action charges it.
+By default, the charge is based on the velocity of the target when hit with a melee attack, as that's the only dynamic solution which works for base cast.
+Feel free to change the charging to account for any variety of factors.
+
+--GO TO HUD--
+Forsburn is a character which relies on hiding their true location. As such, the smash ball floats to his HUD instead of his person.
+If you want to mimic this behavior, set `fs_go_to_hud` to `true` in any character script:
+
+`fs_go_to_hud = true;`
+
+This is entirely dynamic, meaning you can determine whether or not you want the ball to go towards the HUD at any time by simply modifying the variable.
+
+--BALL OFFSET--
+The ball typically either rests behind the player, about halfway up; or a little above the left side of the HUD.
+You can change where the ball goes by changing `fs_ball_offset_x` or `fs_ball_offset_y` respectively, in any character script:
+
+`fs_ball_offset_x = -50;`
+`fs_ball_offset_y = -32;`
+
+The above values are the default values. Again, this is dynamic, and can be changed on the fly to suit your character's needs.
+It's worth remembering that `fs_ball_offset_x` is relative to `spr_dir` when not heading towards the HUD.
+This means that negative values will be behind the player and positive ones will be in front.
+
+--HIDE BALL--
+You can make the ball invisible by setting `fs_hide_ball` to true in any player script.
+
+--HUD METER--
+The HUD meter can be offset by altering `fs_meter_x` and `fs_meter_y` in any script.
+Disable it entirely by setting `fs_hide_meter` to `true` in any script.
+You can also place it above the player by setting `fs_meter_on_player` to true in any script.
+
+--CHARGE MULT--
+You can increase or decrease the rate of charging by setting `fs_charge_mult` in any script. Its default value is `1.3`
+
+--CPU TRIGGER--
+CPUs require `fs_ai_attempt_use` in order to use their final smash. Set it to true in any AI script to trigger their final smash.
+
+--QUESTIONS?--
+DM me on Discord (LilacIsle) or comment on the Steam Workshop discussions if you have any.
+I can't guarantee a timely response (or even a response at all), but I'd be happy to help!
