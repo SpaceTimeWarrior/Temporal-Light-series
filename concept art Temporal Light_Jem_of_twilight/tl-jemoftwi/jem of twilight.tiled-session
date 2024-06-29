@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "eather overworld_5.tmx",
+    "activeFile": "eather overworld_6.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -219,8 +219,8 @@
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 159.33333333333331,
-                "y": 159.66666666666669
+                "x": 160,
+                "y": 160.33333333333334
             }
         },
         "eather overworld_0.tmx": {
@@ -235,32 +235,40 @@
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 452.66666666666663,
-                "y": 544.3333333333333
+                "x": 352,
+                "y": 431.66666666666663
             }
         },
         "eather overworld_2.tmx": {
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 238.66666666666663,
-                "y": 239.33333333333337
+                "x": 240,
+                "y": 240.66666666666669
             }
         },
         "eather overworld_4.tmx": {
             "scale": 3,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 159.66666666666666,
-                "y": 79.83333333333334
+                "x": 160,
+                "y": 80.16666666666667
             }
         },
         "eather overworld_5.tmx": {
             "scale": 2,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 219,
-                "y": 164.75
+                "x": 396,
+                "y": 153.75
+            }
+        },
+        "eather overworld_6.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 208.66666666666666,
+                "y": 348.33333333333326
             }
         },
         "eather palace enterance.tmx": {
@@ -275,8 +283,8 @@
             "scale": 2,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 335.5,
-                "y": 191.75
+                "x": 336,
+                "y": 192.25
             }
         },
         "electrode sparks.tsx": {
@@ -387,16 +395,16 @@
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 342.66666666666663,
-                "y": 159.33333333333337
+                "x": 344,
+                "y": 160.66666666666669
             }
         },
         "luna overworld 0.tmx": {
             "scale": 3,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 159.66666666666666,
-                "y": 159.5
+                "x": 160,
+                "y": 159.83333333333334
             }
         },
         "luna overworld 0B.tmx": {
@@ -547,8 +555,8 @@
             "scale": 4,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 343.75,
-                "y": 383.625
+                "x": 344,
+                "y": 383.875
             }
         },
         "road tilesets.tsx": {
@@ -683,8 +691,8 @@
             "scale": 2,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 903,
-                "y": 158.25
+                "x": 640,
+                "y": 239.75
             }
         },
         "wood_birch.tsx": {
@@ -699,12 +707,12 @@
     "last.exportedFilePath": "C:/Users/steve/Documents/TL-Jem-of_Twilight/Global Assets/scenes",
     "last.externalTilesetPath": "C:/Users/steve/tl-jemoftwi",
     "last.imagePath": "C:/Users/steve/Documents/Temporal-Light-series-main/Temporal-Light-series/concept art Temporal Light_Light's adventure/tl-lightsadv/Documents/GameMakerStudio2/Temporal-Light/sprites",
-    "map.height": 20,
+    "map.height": 40,
     "map.lastUsedExportFilter": "Godot 4 Scene files (*.tscn)",
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
-    "map.width": 80,
+    "map.width": 20,
     "openFiles": [
         "jems house-basement.tmx",
         "exterior and walls.tsx",
@@ -777,7 +785,8 @@
         "wolfsbane genetics lab beta.tmx",
         "wolfsbane genetics lab access.tmx",
         "wolfsbane genetics lab library.tmx",
-        "eather overworld_5.tmx"
+        "eather overworld_5.tmx",
+        "eather overworld_6.tmx"
     ],
     "project": "jem of twilight.tiled-project",
     "property.type": "file",
