@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "eather overworld_6.tmx",
+    "activeFile": "Earth-caverns-control city.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -53,16 +53,16 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 160,
-                "y": 240.5
+                "x": 159,
+                "y": 239.5
             }
         },
         "Earth-Distortion mountain-base.tmx": {
             "scale": 1.8129166666666667,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 239.94484026660535,
-                "y": 240.22063893357847
+                "x": 238.8416455987129,
+                "y": 239.11744426568603
             }
         },
         "Earth-Distortion mountain-caverns2.tmx": {
@@ -77,8 +77,8 @@
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 320,
-                "y": 80.33333333333334
+                "x": 319.3333333333333,
+                "y": 79.66666666666669
             }
         },
         "Earth-Distortion mountain-exterior1.tmx": {
@@ -149,16 +149,24 @@
             "scale": 3,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 164,
-                "y": 159.83333333333334
+                "x": 163.66666666666666,
+                "y": 159.5
+            }
+        },
+        "Earth-caverns-control city.tmx": {
+            "scale": 2.5590625,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 174.28257418488218,
+                "y": 248.72389791183298
             }
         },
         "Earth-caverns-distortion mountain exit.tmx": {
             "scale": 1.4230208333333332,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 319.7423321865164,
-                "y": 240.68516214039977
+                "x": 319.03960178610646,
+                "y": 240.68516214039974
             }
         },
         "Eather genetics lab 01.tmx": {
@@ -175,6 +183,14 @@
             "viewCenter": {
                 "x": 160,
                 "y": 240.5
+            }
+        },
+        "Lightbringer palace control room.tmx": {
+            "scale": 2.5590625,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 154.35340090365128,
+                "y": 161.19184271583833
             }
         },
         "blood splatter.tsx": {
@@ -259,16 +275,16 @@
             "scale": 2,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 396,
-                "y": 153.75
+                "x": 320,
+                "y": 160.25
             }
         },
         "eather overworld_6.tmx": {
             "scale": 1.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 208.66666666666666,
-                "y": 348.33333333333326
+                "x": 192,
+                "y": 319.6666666666667
             }
         },
         "eather palace enterance.tmx": {
@@ -355,7 +371,7 @@
             "scale": 5.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 376,
+                "x": 373.8181818181818,
                 "y": 95.9090909090909
             }
         },
@@ -387,8 +403,8 @@
             "scale": 1.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 160,
-                "y": 240.3333333333333
+                "x": 159.33333333333331,
+                "y": 239.66666666666669
             }
         },
         "luna jem's garden.tmx": {
@@ -707,7 +723,7 @@
     "last.exportedFilePath": "C:/Users/steve/Documents/TL-Jem-of_Twilight/Global Assets/scenes",
     "last.externalTilesetPath": "C:/Users/steve/tl-jemoftwi",
     "last.imagePath": "C:/Users/steve/Documents/Temporal-Light-series-main/Temporal-Light-series/concept art Temporal Light_Light's adventure/tl-lightsadv/Documents/GameMakerStudio2/Temporal-Light/sprites",
-    "map.height": 40,
+    "map.height": 20,
     "map.lastUsedExportFilter": "Godot 4 Scene files (*.tscn)",
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
@@ -786,7 +802,9 @@
         "wolfsbane genetics lab access.tmx",
         "wolfsbane genetics lab library.tmx",
         "eather overworld_5.tmx",
-        "eather overworld_6.tmx"
+        "eather overworld_6.tmx",
+        "Lightbringer palace control room.tmx",
+        "Earth-caverns-control city.tmx"
     ],
     "project": "jem of twilight.tiled-project",
     "property.type": "file",
