@@ -280,6 +280,93 @@ Her apparent physical strength is similar to an average human female
 Her actual strength is similar to an average human male
 the tail ratio becomes close to what it is now
 
+Peryil Burnfeather description from the game temporal Light: Shadow flame
+female phoenix humanoid
+12 years old
+general physical features
+breast size: B cup
+skin color(under feathers): Caucasian White
+main feather color: fire red
+feather pattern: very thin (about 1 feather wide) orange pattern on her face similar to her father
+her father's pattern is below (x's are a filled in section of multicolored pattern)
+XX___XX     |  ______
+ /XXX\      | /xx  Xx\
+|X   X|     |/  X X x|
+ \xxx/      |\   X X / 
+  ===       | ====x==
+back of head|side view of head
+
+eye color:silver
+visible strength: average female human
+actual strength: average male human
+height:3'9"
+weight:100lbs
+
+racial features
+mouth/face type:bird beak and face
+ear type: bird ears (internal but generally are in the same location as a human)
+tail type: bird tail
+tail length: 1/3 her height
+wingspan:1/3 her height
+breast and genital feather length: medium
+hand type: none she has wings
+tail count: 1
+tail strength:half as strong as her wings
+vision type:normal color
+sexual dimorphism: same as human but males have extra feathers and patterns on their body and are generally bigger
+
+
+extra personal racial details
+has a belly button: the ambilical chord is attached to the egg internals before it is laid by this point it is mostly a leftover evolutionary trait from homo-magica
+
+lays a unfertalized egg roughly once every 2 months around the 13th of the month since her 6th birthday. this is edible but she normally gives it to other monsters as she feels weird eating her own eggs.(she will if in a pinch) if they where fertilized the egg would take anywhere from human reproductive time frame all the way up to 5 years depending if sufficient heat was applied. she was a late due to insufficient heat (this is partially why her feather pattern is significantly thinner and was due to her mother being killed as she looked after the egg).
+
+she has wings instead of arms this allows her to fly without using magic.
+
+like most monsters internally they are more human than the animal that are externally seen. in fact if the solar council didn't make non-emergency cross race procedures illegal most human doctors probibly could opperate on a monster with little to no adjustment to the procedure. (that is before they became extinct due to brier's and cedric's genocidal policies)
+
+peryil's outfit
+typically wears a blue jumpsuit that can double as a one piece swimsuit
+wears multiple leather tool strips made into like a vest
+at her workshop she has gloves that give her the ability to grab and use machines/tools(they are generally stuck to the machines so she can't bring them with her. and the few that are not can only get power inside her home)
+
+peryil's magic
+Natural (external) Magic Level: 12.
+Internal (Storage) Magic Level: 64.
+Primary magic specialty(s): Fire
+secondary magic specialty(s): mental(suppressed by her father it is slowly breaking down as TL:shadow flame progresses until chapter 5 in which it is completly unsuppressed. for female phoenixes this is very rare to have more than mental magic detection which her mother did have.[this means they can detect if mental magic is used but cannot use it unless it was used on them])
+
+pearlite's hobbies
+tool making and ship designing
+programming.
+cooking although limited due to not having hands
+
+magic training
+she can only cast fireballs
+
+Peryil's job
+straship designer
+
+about aging/deaging
+this is similar to a normal human but these details are to keep in mind
+aging
+very slowly lighten the feather color at age 1000 it is completely white
+her eye color is based on estrogen levels in the body
+in which as she gets older her eye color will slowly become very dark silver
+deaging the character
+to first 2 years
+her eye color is a white with a slight silver tint
+her breast size becomes similar to an infant
+the tail is about 1/3 her size
+she only has feathers similar where human hair would be
+her eyes start white (iris coloration not pupil she is not blind just colorblind deuteranopic to be specific. the color blindness does not change) and slowly become colored. by age 3 it is fully colored to normal levels
+to 10 and earlier
+she follows similar development to a human but sped up at double speed
+the breasts grows to B cup
+Her apparent physical strength is similar to an average human female
+Her actual strength is similar slightly stronger than a average human male
+the tail ratio becomes close to what it is now
+
 character specific breast sizes (band size in inches then cup size letter)
 Jem 27D
     27A
@@ -287,12 +374,15 @@ Light(adult) 28C
              28B
 pearlite 29D
          29B
+peryil 19B
+
 character heights (for Europeans it is one ' means foot " means inches left over)
 Jem 4'6" (1.3716M)
 light(child) 2'11"(0.889M)
 light(adult) 4'9"(1.4478M)
 pearlite 4'10"(1.4732M)
 Flare 5'2" (1.5748 M)
+peryil 3'9" (1.143 M)
 
 general conversions and definitions
 length
