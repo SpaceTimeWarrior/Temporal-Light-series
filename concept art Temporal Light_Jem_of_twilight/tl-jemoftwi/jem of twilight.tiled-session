@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "wolfsbane genetics lab library.tmx",
+    "activeFile": "Earth-caverns-control city.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -61,8 +61,8 @@
             "scale": 1.8129166666666667,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 240.49643760055164,
-                "y": 239.66904159963224
+                "x": 239.94484026660535,
+                "y": 240.22063893357847
             }
         },
         "Earth-Distortion mountain-caverns2.tmx": {
@@ -85,7 +85,7 @@
             "scale": 1.56,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 320.51282051282044,
+                "x": 319.8717948717948,
                 "y": 160.5769230769231
             }
         },
@@ -93,8 +93,8 @@
             "scale": 1.566015625,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 320.5587428286356,
-                "y": 160.598653030681
+                "x": 319.92017959590925,
+                "y": 160.59865303068096
             }
         },
         "Earth-Distortion mountain-peak access.tmx": {
@@ -109,16 +109,16 @@
             "scale": 1.7060416666666667,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 160.01953840517766,
-                "y": 240.02930760776653
+                "x": 159.43338624984736,
+                "y": 240.0293076077665
             }
         },
         "Earth-Distortion mountain-peak.tmx": {
             "scale": 2.5590625,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 80.10746122847723,
-                "y": 160.01953840517768
+                "x": 79.7166931249237,
+                "y": 160.01953840517766
             }
         },
         "Earth-Distortion mountain-summit-access-cavern.tmx": {
@@ -133,8 +133,8 @@
             "scale": 2.55,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 128.23529411764707,
-                "y": 239.80392156862746
+                "x": 127.84313725490199,
+                "y": 239.8039215686275
             }
         },
         "Earth-caverns hospital enterance.tmx": {
@@ -158,15 +158,15 @@
             "selectedLayer": 2,
             "viewCenter": {
                 "x": 174.28257418488218,
-                "y": 247.94236170472587
+                "y": 247.55159360117233
             }
         },
         "Earth-caverns-distortion mountain exit.tmx": {
             "scale": 1.4230208333333332,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 320.4450625869263,
-                "y": 240.68516214039974
+                "x": 319.7423321865164,
+                "y": 240.68516214039977
             }
         },
         "Eather genetics lab 01.tmx": {
@@ -189,8 +189,8 @@
             "scale": 2.5590625,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 153.18109659299057,
-                "y": 149.07803150567835
+                "x": 159.8241543534009,
+                "y": 160.01953840517766
             }
         },
         "blood splatter.tsx": {
@@ -275,16 +275,16 @@
             "scale": 2,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 225,
-                "y": 146.25
+                "x": 320,
+                "y": 160.25
             }
         },
         "eather overworld_6.tmx": {
             "scale": 1.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 148.66666666666666,
-                "y": 300.33333333333326
+                "x": 192,
+                "y": 319.6666666666667
             }
         },
         "eather palace enterance.tmx": {
@@ -311,7 +311,7 @@
             "scale": 4.2096875,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 80.05344814787321,
+                "x": 79.81590082399228,
                 "y": 80.17222180981366
             }
         },
@@ -339,7 +339,7 @@
             "scale": 3,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 83.99999999999997,
+                "x": 84,
                 "y": 76.16666666666667
             }
         },
@@ -347,7 +347,7 @@
             "scale": 1.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 240,
+                "x": 239.66666666666666,
                 "y": 159.66666666666669
             }
         },
@@ -355,7 +355,7 @@
             "scale": 4.74,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 80.16877637130801,
+                "x": 79.95780590717298,
                 "y": 72.0464135021097
             }
         },
@@ -371,7 +371,7 @@
             "scale": 5.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 376,
+                "x": 373.8181818181818,
                 "y": 95.9090909090909
             }
         },
@@ -379,7 +379,7 @@
             "scale": 3.13203125,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 160.2793714143178,
+                "x": 159.96008979795462,
                 "y": 72.31728610626092
             }
         },
@@ -411,7 +411,7 @@
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 343.9999999999999,
+                "x": 344,
                 "y": 160.66666666666669
             }
         },
@@ -475,7 +475,7 @@
             "scale": 3.13203125,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 160.2793714143178,
+                "x": 159.96008979795462,
                 "y": 72.31728610626092
             }
         },
@@ -531,8 +531,8 @@
             "scale": 2.3717013888888885,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 160.22253129346313,
-                "y": 160.0117121733402
+                "x": 159.80089305321724,
+                "y": 160.01171217334021
             }
         },
         "magic school F1.tmx": {
@@ -627,7 +627,7 @@
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 192.66666666666666,
+                "x": 192,
                 "y": 192.33333333333334
             }
         },
@@ -683,8 +683,8 @@
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 320,
-                "y": 240.5
+                "x": 319,
+                "y": 239.5
             }
         },
         "wolfsbane genetics lab alpha.tmx": {
@@ -700,15 +700,15 @@
             "selectedLayer": 5,
             "viewCenter": {
                 "x": 120.16119184271585,
-                "y": 120.01465380388326
+                "y": 119.72157772621811
             }
         },
         "wolfsbane genetics lab library.tmx": {
             "scale": 2,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 719.5,
-                "y": 225.25
+                "x": 718.5,
+                "y": 224.25
             }
         },
         "wood_birch.tsx": {
@@ -723,7 +723,7 @@
     "last.exportedFilePath": "C:/Users/steve/Documents/TL-Jem-of_Twilight/Global Assets/scenes",
     "last.externalTilesetPath": "C:/Users/steve/tl-jemoftwi",
     "last.imagePath": "C:/Users/steve/Documents/Temporal-Light-series-main/Temporal-Light-series/concept art Temporal Light_Light's adventure/tl-lightsadv/Documents/GameMakerStudio2/Temporal-Light/sprites",
-    "map.height": 20,
+    "map.height": 15,
     "map.lastUsedExportFilter": "Godot 4 Scene files (*.tscn)",
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
