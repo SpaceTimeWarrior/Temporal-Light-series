@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Earth-caverns-control city.tmx",
+    "activeFile": "flare's room II.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -158,7 +158,7 @@
             "selectedLayer": 2,
             "viewCenter": {
                 "x": 174.28257418488218,
-                "y": 247.55159360117233
+                "y": 221.37013066308467
             }
         },
         "Earth-caverns-distortion mountain exit.tmx": {
@@ -318,6 +318,14 @@
         "exterior and walls.tsx": {
             "scaleInDock": 3,
             "scaleInEditor": 1
+        },
+        "flare's room II.tmx": {
+            "scale": 5.686805555555555,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 84.58175601416536,
+                "y": 93.81365246061792
+            }
         },
         "forge's house.tmx": {
             "scale": 3,
@@ -604,15 +612,15 @@
             "scaleInEditor": 1
         },
         "steel flooring.tsx": {
-            "scaleInDock": 1.5,
+            "scaleInDock": 3,
             "scaleInEditor": 1
         },
         "string lights tileset.tsx": {
-            "scaleInDock": 1.5,
+            "scaleInDock": 3,
             "scaleInEditor": 1
         },
         "terrain_tilesets.tsx": {
-            "scaleInDock": 1.5,
+            "scaleInDock": 3,
             "scaleInEditor": 1
         },
         "the intrepid flyer-interior.tmx": {
@@ -683,8 +691,8 @@
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 319,
-                "y": 239.5
+                "x": 320,
+                "y": 240.5
             }
         },
         "wolfsbane genetics lab alpha.tmx": {
@@ -699,16 +707,16 @@
             "scale": 3.4120833333333334,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 120.16119184271585,
-                "y": 119.72157772621811
+                "x": 119.86811576505069,
+                "y": 120.01465380388325
             }
         },
         "wolfsbane genetics lab library.tmx": {
             "scale": 2,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 718.5,
-                "y": 224.25
+                "x": 640,
+                "y": 239.75
             }
         },
         "wood_birch.tsx": {
@@ -723,12 +731,12 @@
     "last.exportedFilePath": "C:/Users/steve/Documents/TL-Jem-of_Twilight/Global Assets/scenes",
     "last.externalTilesetPath": "C:/Users/steve/tl-jemoftwi",
     "last.imagePath": "C:/Users/steve/Documents/Temporal-Light-series-main/Temporal-Light-series/concept art Temporal Light_Light's adventure/tl-lightsadv/Documents/GameMakerStudio2/Temporal-Light/sprites",
-    "map.height": 15,
+    "map.height": 9,
     "map.lastUsedExportFilter": "Godot 4 Scene files (*.tscn)",
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
-    "map.width": 20,
+    "map.width": 10,
     "openFiles": [
         "jems house-basement.tmx",
         "exterior and walls.tsx",
@@ -804,7 +812,8 @@
         "eather overworld_5.tmx",
         "eather overworld_6.tmx",
         "Lightbringer palace control room.tmx",
-        "Earth-caverns-control city.tmx"
+        "Earth-caverns-control city.tmx",
+        "flare's room II.tmx"
     ],
     "project": "jem of twilight.tiled-project",
     "property.type": "file",

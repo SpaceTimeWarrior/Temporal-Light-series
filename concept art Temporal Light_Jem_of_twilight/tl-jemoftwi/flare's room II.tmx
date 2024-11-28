@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="10" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" source="steel flooring.tsx"/>
+ <tileset firstgid="55" source="exterior and walls.tsx"/>
+ <tileset firstgid="325" source="roof tiles.tsx"/>
+ <tileset firstgid="512" source="interior tileset 1.tsx"/>
+ <tileset firstgid="600" source="interior tileset 2.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="10" height="9">
+  <data encoding="csv">
+0,0,0,1073742119,1073742119,1073742119,1073742119,1073742119,1073742119,0,
+0,0,0,272,272,272,272,272,272,0,
+0,0,0,272,272,272,272,272,272,0,
+1073742119,1073742119,1073742119,6,6,6,6,6,6,0,
+272,272,272,6,6,6,6,6,6,0,
+272,272,272,6,6,6,6,6,6,0,
+6,6,6,6,6,6,6,6,6,0,
+6,6,6,6,6,6,6,6,6,0,
+6,6,6,6,6,6,6,6,6,0
+</data>
+ </layer>
+ <layer id="2" name="Tile Layer 2" width="10" height="9">
+  <data encoding="csv">
+499,499,499,507,507,507,507,507,507,499,
+499,499,499,611,613,0,611,612,613,499,
+499,499,499,622,624,0,622,623,624,499,
+507,507,507,633,635,559,633,634,635,499,
+0,0,0,0,0,570,0,0,0,499,
+0,0,0,0,0,0,0,0,0,499,
+0,0,0,0,0,0,0,0,0,499,
+0,0,0,0,0,0,514,515,516,499,
+0,0,0,0,0,0,536,537,538,499
+</data>
+ </layer>
+ <layer id="3" name="Tile Layer 3" width="10" height="9" offsetx="0" offsety="8">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,539,0,0,
+0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>
