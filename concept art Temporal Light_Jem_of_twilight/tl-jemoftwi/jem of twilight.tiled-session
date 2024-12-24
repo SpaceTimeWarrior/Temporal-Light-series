@@ -53,144 +53,144 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 160,
-                "y": 240.5
+                "x": 653,
+                "y": 213.5
             }
         },
         "Earth-Distortion mountain-base.tmx": {
             "scale": 1.8129166666666667,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 239.94484026660535,
-                "y": 240.22063893357847
+                "x": 511.88232590209145,
+                "y": 225.32751091703057
             }
         },
         "Earth-Distortion mountain-caverns2.tmx": {
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 512,
-                "y": 168.5
+                "x": 1005,
+                "y": 141.5
             }
         },
         "Earth-Distortion mountain-enterance cavern.tmx": {
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 320,
-                "y": 80.33333333333334
+                "x": 648.6666666666667,
+                "y": 62.33333333333334
             }
         },
         "Earth-Distortion mountain-exterior1.tmx": {
             "scale": 1.56,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 319.8717948717948,
-                "y": 160.5769230769231
+                "x": 635.2564102564102,
+                "y": 143.26923076923077
             }
         },
         "Earth-Distortion mountain-exterior2.tmx": {
             "scale": 1.566015625,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 319.92017959590925,
-                "y": 160.59865303068096
+                "x": 634.7318533300074,
+                "y": 143.3574457470691
             }
         },
         "Earth-Distortion mountain-peak access.tmx": {
             "scale": 2,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 320,
-                "y": 319.75
+                "x": 566.5,
+                "y": 305.75
             }
         },
         "Earth-Distortion mountain-peak-access-cavern.tmx": {
             "scale": 1.7060416666666667,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 159.43338624984736,
-                "y": 240.0293076077665
+                "x": 448.4063988276956,
+                "y": 224.20319941384784
             }
         },
         "Earth-Distortion mountain-peak.tmx": {
             "scale": 2.5590625,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 79.7166931249237,
-                "y": 160.01953840517766
+                "x": 272.3653681768226,
+                "y": 149.4687996092319
             }
         },
         "Earth-Distortion mountain-summit-access-cavern.tmx": {
             "scale": 2,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 320,
-                "y": 80.25
+                "x": 566.5,
+                "y": 66.75
             }
         },
         "Earth-Distortion mountain-summit-cavern-save.tmx": {
             "scale": 2.55,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 127.84313725490199,
-                "y": 239.8039215686275
+                "x": 321.17647058823536,
+                "y": 228.82352941176472
             }
         },
         "Earth-caverns hospital enterance.tmx": {
             "scale": 2,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 160,
-                "y": 239.75
+                "x": 406.5,
+                "y": 225.75
             }
         },
         "Earth-caverns hospital.tmx": {
             "scale": 3,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 164,
-                "y": 159.83333333333334
+                "x": 328.33333333333337,
+                "y": 150.5
             }
         },
         "Earth-caverns-control city.tmx": {
             "scale": 2.5590625,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 174.28257418488218,
-                "y": 221.37013066308467
+                "x": 352.47282940529976,
+                "y": 149.4687996092319
             }
         },
         "Earth-caverns-distortion mountain exit.tmx": {
             "scale": 1.4230208333333332,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 319.7423321865164,
-                "y": 240.68516214039977
+                "x": 666.18841958861,
+                "y": 221.71144132933176
             }
         },
         "Eather genetics lab 01.tmx": {
             "scale": 3,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 240,
-                "y": 239.83333333333331
+                "x": 404.33333333333337,
+                "y": 230.5
             }
         },
         "Lightbringer palace airlock.tmx": {
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 160,
-                "y": 240.5
+                "x": 653,
+                "y": 213.5
             }
         },
         "Lightbringer palace control room.tmx": {
             "scale": 2.5590625,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 159.8241543534009,
-                "y": 160.01953840517766
+                "x": 352.47282940529976,
+                "y": 149.4687996092319
             }
         },
         "blood splatter.tsx": {
@@ -201,8 +201,8 @@
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 160,
-                "y": 160.33333333333334
+                "x": 488.6666666666667,
+                "y": 142.33333333333334
             }
         },
         "character tileset.tsx": {
@@ -227,80 +227,80 @@
             "scale": 5.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 96,
-                "y": 719.909090909091
+                "x": 185.63636363636363,
+                "y": 714.8181818181819
             }
         },
         "eather bathrooms.tmx": {
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 160,
-                "y": 160.33333333333334
+                "x": 488.6666666666667,
+                "y": 142.33333333333334
             }
         },
         "eather overworld_0.tmx": {
             "scale": 3,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 240,
-                "y": 239.83333333333331
+                "x": 404.33333333333337,
+                "y": 230.5
             }
         },
         "eather overworld_1.tmx": {
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 352,
-                "y": 431.66666666666663
+                "x": 680.6666666666667,
+                "y": 413
             }
         },
         "eather overworld_2.tmx": {
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 240,
-                "y": 240.66666666666669
+                "x": 897.3333333333333,
+                "y": 204.66666666666669
             }
         },
         "eather overworld_4.tmx": {
             "scale": 3,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 160,
-                "y": 80.16666666666667
+                "x": 324.33333333333337,
+                "y": 71.16666666666667
             }
         },
         "eather overworld_5.tmx": {
             "scale": 2,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 320,
-                "y": 160.25
+                "x": 566.5,
+                "y": 146.75
             }
         },
         "eather overworld_6.tmx": {
             "scale": 1.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 192,
-                "y": 319.6666666666667
+                "x": 520.6666666666667,
+                "y": 301
             }
         },
         "eather palace enterance.tmx": {
             "scale": 2,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 192,
-                "y": 192.25
+                "x": 438.5,
+                "y": 178.75
             }
         },
         "eather spaceport.tmx": {
             "scale": 2,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 336,
-                "y": 192.25
+                "x": 582.5,
+                "y": 178.75
             }
         },
         "electrode sparks.tsx": {
@@ -311,8 +311,8 @@
             "scale": 4.2096875,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 79.81590082399228,
-                "y": 80.17222180981366
+                "x": 196.92673149729046,
+                "y": 73.75844406502858
             }
         },
         "exterior and walls.tsx": {
@@ -324,15 +324,15 @@
             "selectedLayer": 2,
             "viewCenter": {
                 "x": 84.58175601416536,
-                "y": 93.81365246061792
+                "y": 93.63780681401883
             }
         },
         "forge's house.tmx": {
             "scale": 3,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 80,
-                "y": 80.16666666666667
+                "x": 244.33333333333334,
+                "y": 71.16666666666667
             }
         },
         "interior tileset 1.tsx": {
@@ -347,240 +347,240 @@
             "scale": 3,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 84,
-                "y": 76.16666666666667
+                "x": 248.33333333333334,
+                "y": 67.16666666666667
             }
         },
         "jems house-basement.tmx": {
             "scale": 1.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 239.66666666666666,
-                "y": 159.66666666666669
+                "x": 560.6666666666667,
+                "y": 141.66666666666669
             }
         },
         "light's room.tmx": {
             "scale": 4.74,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 79.95780590717298,
-                "y": 72.0464135021097
+                "x": 183.75527426160335,
+                "y": 66.35021097046413
             }
         },
         "lightbringer palace basement.tmx": {
             "scale": 3,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 160,
-                "y": 239.83333333333331
+                "x": 324.33333333333337,
+                "y": 230.5
             }
         },
         "lower courtyard connection.tmx": {
             "scale": 5.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 373.8181818181818,
-                "y": 95.9090909090909
+                "x": 463.45454545454544,
+                "y": 90.81818181818183
             }
         },
         "luna armory access.tmx": {
             "scale": 3.13203125,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 159.96008979795462,
-                "y": 72.31728610626092
+                "x": 317.3659266650037,
+                "y": 63.696682464454966
             }
         },
         "luna dungeons.tmx": {
             "scale": 3,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 160,
-                "y": 159.83333333333334
+                "x": 324.33333333333337,
+                "y": 150.5
             }
         },
         "luna hanger storage room.tmx": {
             "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 160,
-                "y": 240.66666666666669
+                "x": 817.3333333333333,
+                "y": 204.66666666666669
             }
         },
         "luna hanger storage room_1.tmx": {
             "scale": 1.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 160,
-                "y": 240.3333333333333
+                "x": 488.6666666666667,
+                "y": 222.33333333333334
             }
         },
         "luna jem's garden.tmx": {
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 344,
-                "y": 160.66666666666669
+                "x": 1001.3333333333334,
+                "y": 124.66666666666669
             }
         },
         "luna overworld 0.tmx": {
             "scale": 3,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 160,
-                "y": 159.83333333333334
+                "x": 324.33333333333337,
+                "y": 150.5
             }
         },
         "luna overworld 0B.tmx": {
             "scale": 8,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 320,
-                "y": 319.9375
+                "x": 381.625,
+                "y": 316.4375
             }
         },
         "luna overworld 3.tmx": {
             "scale": 1.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 160,
-                "y": 240.3333333333333
+                "x": 488.6666666666667,
+                "y": 222.33333333333334
             }
         },
         "luna palace Throne Room.tmx": {
             "scale": 1,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 164,
-                "y": 240.5
+                "x": 657,
+                "y": 213.5
             }
         },
         "luna palace Throne access aplha.tmx": {
             "scale": 5.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 160,
-                "y": 159.90909090909093
+                "x": 249.63636363636363,
+                "y": 154.8181818181818
             }
         },
         "luna palace Throne bedroom access.tmx": {
             "scale": 2,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 244,
-                "y": 80.25
+                "x": 490.5,
+                "y": 66.75
             }
         },
         "luna palace bathrooms.tmx": {
             "scale": 2,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 240,
-                "y": 239.75
+                "x": 486.5,
+                "y": 225.75
             }
         },
         "luna palace communications.tmx": {
             "scale": 3.13203125,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 159.96008979795462,
-                "y": 72.31728610626092
+                "x": 317.3659266650037,
+                "y": 63.696682464454966
             }
         },
         "luna palace library.tmx": {
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 160,
-                "y": 240.3333333333333
+                "x": 488.6666666666667,
+                "y": 222.33333333333334
             }
         },
         "luna palace throne access airlock.tmx": {
             "scale": 3,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 160,
-                "y": 80.16666666666667
+                "x": 324.33333333333337,
+                "y": 71.16666666666667
             }
         },
         "luna room 0.tmx": {
             "scale": 3,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 80,
-                "y": 80.16666666666667
+                "x": 244.33333333333334,
+                "y": 71.16666666666667
             }
         },
         "luna tranquility access.tmx": {
             "scale": 3,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 240,
-                "y": 239.83333333333331
+                "x": 404.33333333333337,
+                "y": 230.5
             }
         },
         "luna tranquility waterfront.tmx": {
             "scale": 1,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 320,
-                "y": 240.5
+                "x": 813,
+                "y": 213.5
             }
         },
         "luna village enterance.tmx": {
             "scale": 3,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 160,
-                "y": 319.8333333333333
+                "x": 324.33333333333337,
+                "y": 310.5
             }
         },
         "luna weapon design.tmx": {
             "scale": 2.3717013888888885,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 159.80089305321724,
-                "y": 160.01171217334021
+                "x": 367.6685454944734,
+                "y": 148.6274796866994
             }
         },
         "magic school F1.tmx": {
             "scale": 3,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 240,
-                "y": 239.83333333333331
+                "x": 404.33333333333337,
+                "y": 230.5
             }
         },
         "magic school magic classroom.tmx": {
             "scale": 3,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 164,
-                "y": 159.83333333333334
+                "x": 328.33333333333337,
+                "y": 150.5
             }
         },
         "magic school magic combat arena.tmx": {
             "scale": 2,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 160,
-                "y": 160.25
+                "x": 406.5,
+                "y": 146.75
             }
         },
         "magic school security checkpoint unlocked.tmx": {
             "scale": 4,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 80,
-                "y": 80.125
+                "x": 203.25,
+                "y": 73.375
             }
         },
         "northern path.tmx": {
             "scale": 4,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 344,
-                "y": 383.875
+                "x": 467.25,
+                "y": 376.875
             }
         },
         "road tilesets.tsx": {
@@ -595,16 +595,16 @@
             "scale": 8,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 80,
-                "y": 79.9375
+                "x": 141.625,
+                "y": 76.4375
             }
         },
         "sea of serenity waterfront.tmx": {
             "scale": 0.5,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 240,
-                "y": 161
+                "x": 1226,
+                "y": 107
             }
         },
         "shuttles.tsx": {
@@ -635,24 +635,24 @@
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 192,
-                "y": 192.33333333333334
+                "x": 520.6666666666667,
+                "y": 174.33333333333334
             }
         },
         "throne room acess.tmx": {
             "scale": 2,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 96,
-                "y": 192.25
+                "x": 342.5,
+                "y": 178.75
             }
         },
         "throne room.tmx": {
             "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 108,
-                "y": 212.5
+                "x": 601,
+                "y": 185.5
             }
         },
         "trees 0.tsx": {
@@ -675,24 +675,24 @@
             "scale": 4,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 96,
-                "y": 719.875
+                "x": 219.25,
+                "y": 712.875
             }
         },
         "wolfsbane castle bedrooms.tmx": {
             "scale": 2,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 244,
-                "y": 243.75
+                "x": 490.5,
+                "y": 229.75
             }
         },
         "wolfsbane genetics lab access.tmx": {
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 320,
-                "y": 240.5
+                "x": 813,
+                "y": 213.5
             }
         },
         "wolfsbane genetics lab alpha.tmx": {
@@ -707,16 +707,16 @@
             "scale": 3.4120833333333334,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 119.86811576505069,
-                "y": 120.01465380388325
+                "x": 264.06154597630973,
+                "y": 112.10159970692392
             }
         },
         "wolfsbane genetics lab library.tmx": {
             "scale": 2,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 640,
-                "y": 239.75
+                "x": 886.5,
+                "y": 225.75
             }
         },
         "wood_birch.tsx": {
