@@ -1,0 +1,6 @@
+1. added a brand logo
+2. added a optional hook and loop strap for the earpiece
+3. added circuit board inside the earpiece(still low poly)
+4. added in the snap in pieces
+5. changed the jack for the ear piece to the center of ear piece connector
+6. added in a jacket for the input jack
