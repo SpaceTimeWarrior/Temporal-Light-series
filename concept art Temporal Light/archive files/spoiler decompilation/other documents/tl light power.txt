@@ -1,0 +1,11 @@
+power calculations by pearlite
+expected power level by age 20: 64
+current power level:using the magic power to energy
+level:32
+158249.471 tons of TNT (medium nuke level)
+with a danger radius of about 1km
+
+calculations at age 20 at max power(very angry)
+level:4096
+2,658,104.11 tons of TNT (megaton nuke level)
+with a danger radius of about 2,646,606.98667 km(mostly shockwaves and pressure waves)(direct damage is about a city's diameter)
